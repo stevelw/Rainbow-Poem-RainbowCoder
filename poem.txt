@@ -1,5 +1,10 @@
 Poem by tutorial watchers
 
+Today is Tuesday,
+Second day of the week.
+If you thought it was Monday,
+You're wrong.
+
 # Ceiling to the Stars
 
 Up in the sky, where the stars shine bright,
